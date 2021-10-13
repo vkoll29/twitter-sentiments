@@ -15,7 +15,6 @@ def run():
         print(result['detectedLanguage']['name'])
         print('-------------------------------------')
 
-
 if __name__ == '__main__':
     run()
 
